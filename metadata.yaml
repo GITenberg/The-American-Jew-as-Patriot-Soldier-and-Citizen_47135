@@ -1,16 +1,22 @@
 _repo: The-American-Jew-as-Patriot-Soldier-and-Citizen_47135
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Levy, Louis Edward
       gutenberg_agent_id: '44151'
       url: http://www.gutenberg.org/2009/agents/44151
+covers:
+- cover_type: archival
+  image_path: 47135-h/images/cover.jpg
 creator:
   author:
     agent_name: Wolf, Simon
     gutenberg_agent_id: '44150'
     url: http://www.gutenberg.org/2009/agents/44150
 description: '"Jewish soldiers in the civil war": p. 98-424.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47135#The-American-Jew-as-Patriot-Soldier-and-Citizen
 gutenberg_issued: '2014-10-16'
 gutenberg_type: Text
 identifiers:
